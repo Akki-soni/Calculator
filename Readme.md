@@ -44,7 +44,7 @@ This project is created with:
 
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/Akki-soni/Calculator.git
    ```
 
 ## Author
