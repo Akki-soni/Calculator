@@ -6,13 +6,14 @@
   </a>
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 ## Calculator
 
 A simple, modern-looking calculator built with HTML, CSS, and JavaScript. This calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Demo
 
-Check out the live demo: [Demo](#)
+Check out the live demo: [Demo](https://calculator-one-eta-85.vercel.app/)
 
 ## Features
 
