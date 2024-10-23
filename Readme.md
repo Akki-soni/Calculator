@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
@@ -46,7 +45,7 @@ No external dependencies are required. Just clone the repository and open the `i
 
 ```bash
 git clone <https://github.com/Akki-soni/Calculator.git>
-cd age-calculator
+cd calculator
 open index.html
 ```
 
@@ -86,6 +85,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 ## Thank You
 
 Thank you for exploring the Age Calculator! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
-=======
-
->>>>>>> 6f2c94305693c4ed8abc9b19ae8be71e75a15cfc
